@@ -4,10 +4,8 @@ date:  2017-12-3 22:27:59
 categories: [Docker]
 tags: [Docker]
 keywords:  Docker
-
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;本文主要记录了笔者实践《Docker技术入门与实践》过程中做的一些笔记，笔记内容主要是Docker镜像的基本操作。
-
+&emsp;&emsp;本文主要记录了笔者实践《Docker技术入门与实践》过程中做的一些笔记，笔记内容主要是Docker镜像的基本操作。
 <!--more-->
 
 ### 获取镜像

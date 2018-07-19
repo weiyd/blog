@@ -3,16 +3,30 @@ title: pipenv的基本使用
 date: 2018-05-30 09:44:43
 tags: [Python, pipenv]
 categories: Python
+description: 
+photo: "pipenv的基本使用/1.jpg"
+
+timeline:
+  - num: 1
+    word: 2014/06/12-Start
+  - num: 2
+    word: 2014/11/29-XXX
+  - num: 3
+    word: 2015/02/18-DDD
+  - num: 4
+    word: More11
+layout: timeline
+toc: true
 ---
+![pipenv的基本使用/1.jpg](pipenv的基本使用/1.jpg)
 pipenv 是 Pipfile 主要倡导者、requests 作者 Kenneth Reitz 写的一个命令行工具，主要包含了Pipfile、pip、click、requests和virtualenv。Pipfile和pipenv本来都是Kenneth Reitz的个人项目，后来贡献给了pypa组织。Pipfile是社区拟定的依赖管理文件，用于替代过于简陋的 requirements.txt 文件。
-
+<!--more-->
 Pipfile的基本理念是：
-
 Pipfile 文件是 TOML 格式而不是 requirements.txt 这样的纯文本。
 一个项目对应一个 Pipfile，支持开发环境与正式环境区分。默认提供 default 和 development 区分。
 提供版本锁支持，存为 Pipfile.lock。
 click是Flask作者 Armin Ronacher 写的命令行库，现在Flask已经集成了它。
-<!-- more -->
+
 ## 安装
 
 安装pipenv

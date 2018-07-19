@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: yitakabe
+title: 尔了个达
 subtitle: A good brain is not as good as a rotten pen
 description: 来自cs的一名渣硕
 author: 尔了个达
@@ -74,7 +74,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: jacman
 # theme: next
-theme: hexo-theme-next
+theme: maupassant-hexo
+# theme: hexo-theme-next
 # theme: hexo-theme-mellow
 # theme : casper
 
